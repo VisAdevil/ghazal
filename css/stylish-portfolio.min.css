@@ -143,8 +143,7 @@ p, ul, li, h3 {
     display: block;
     text-decoration: none;
     color: #fff;
-    padding: 15px;
-    direction: rtl
+    padding: 15px
 }
 
 .sidebar-nav li a:hover {
@@ -169,7 +168,11 @@ p, ul, li, h3 {
 }
 
 .sidebar-nav>.sidebar-brand a {
-    color: #fff
+    color: #fff;
+    direction : rtl
+}
+.sidebar-nav>.sidebar-nav-item a {
+    direction : rtl
 }
 
 .sidebar-nav>.sidebar-brand a:hover {
