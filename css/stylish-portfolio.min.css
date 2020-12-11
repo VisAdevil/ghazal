@@ -126,7 +126,7 @@ p, ul, li, h3 {
     height: 100%;
     transition: all .4s ease 0s;
     transform: translateX(250px);
-    background: #1d809f;
+    background: #bd863d;
     border-left: 1px solid rgba(255, 255, 255, .1)
 }
 
