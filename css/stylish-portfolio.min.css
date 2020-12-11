@@ -347,16 +347,16 @@ a:hover {
 }
 
 .btn-primary {
-    background-color: #1d809f !important;
-    border-color: #1d809f !important;
+    background-color: #e8a041 !important;
+    border-color: #e8a041 !important;
     color: #fff !important
 }
 
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover {
-    background-color: #155d74 !important;
-    border-color: #155d74 !important
+    background-color: #bd863d !important;
+    border-color: #bd863d !important
 }
 
 .btn-secondary {
